@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@-webkit-keyframes greenPulse {
+from { background-color: #749a02; -webkit-box-shadow:: 0 0 9px #333; }
+50% { background-color: #91bd09; -webkit-box-shadow:: 0 0 18px #91bd09; }
+to { background-color: #749a02; -webkit-box-shadow:: 0 0 9px #333; }
+}$0</string>
+	<key>name</key>
+	<string>create animation</string>
+	<key>scope</key>
+	<string>css</string>
+	<key>tabTrigger</key>
+	<string>an1</string>
+	<key>uuid</key>
+	<string>F7FBAE53-231F-4C1A-AC95-60CEC90D9EA7</string>
+</dict>
+</plist>
