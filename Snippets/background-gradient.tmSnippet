@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background:-webkit-gradient(linear, 0 0, 0 100%, from($1), to($2));
+	<string>background:$2;
+background:-webkit-gradient(linear, 0 0, 0 100%, from($1), to($2));
 background:-moz-linear-gradient(center top , $1, $2);$0</string>
 	<key>name</key>
 	<string>background-gradient</string>
